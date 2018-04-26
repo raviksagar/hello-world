@@ -24,15 +24,14 @@ OS X & Linux:
 npm install customer-management --save
 ```
 Windows:
-```sh
+``sh
 edit autoexec.bat
-```
+``
 Installation guide is available on sharepoint at below location [CustomerManagement Installation Guid](https://example.com)
 
 ## Usage
 After the project is installed the test the project using SOAP UI. More details about project in action. For ex: screenshot etc.
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-
+[SOAP UI-image]: https://myHost/images/testrequest
 _For more examples and usage, please refer to the [Wiki][wiki]
 
 ## Release History

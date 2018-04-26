@@ -1,7 +1,8 @@
 # CustomerManagement
-This project manages the customer information. It has services to create/update/delete the customer.
+Project to manages customer information
 ---
 ## Description
+This project to manages the customer information. It has services to create/update/delete the customer.
 This project has following services exposed:
 1. createCustomer: This service **creates** new customer in the system
 2. updateCustomer: This service **updates** existing customer in the system

@@ -6,7 +6,6 @@ This project to manages the customer information. It has services to create/upda
 This project has following services exposed:
 1. createCustomer: This service **creates** new customer in the system
 2. updateCustomer: This service **updates** existing customer in the system
-3. deleteCustomer: This service **deletes** customer from the system
 ## Table of Contents
 ### Service Design
 Brief information about service _design_
@@ -15,18 +14,10 @@ Brief information about service _exception handling_
 ### Logging
 Brief information about service _logging_
 ## Installation
-### Pre-requisite:
-1. JDK
-2. Mule etc
 ### Installation steps
 OS X & Linux:
-
 ```sh
 npm install customer-management --save
-```
-Windows:
-```sh
-edit autoexec.bat
 ```
 Installation guide is available on sharepoint at below location [CustomerManagement Installation Guid](https://example.com)
 
@@ -38,10 +29,6 @@ _For more examples and usage, please refer to the [Wiki][wiki]
 ## Release History
 * 1.0
     * Base: Initial version of the service
-* 2.0
-    * CHANGE: Remove `setDefaultXYZ()`
-    * ADD: Add `init()`
 
 ## Credits
 @Mark 
-@John

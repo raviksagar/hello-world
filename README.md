@@ -1,5 +1,5 @@
 # CustomerManagement
-Project to manages customer information
+Project to manage the customer information
 ---
 ## Description
 This project to manages the customer information. It has services to create/update/delete the customer.

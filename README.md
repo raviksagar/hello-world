@@ -24,9 +24,9 @@ OS X & Linux:
 npm install customer-management --save
 ```
 Windows:
-``sh
+```sh
 edit autoexec.bat
-``
+```
 Installation guide is available on sharepoint at below location [CustomerManagement Installation Guid](https://example.com)
 
 ## Usage

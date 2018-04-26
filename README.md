@@ -18,12 +18,26 @@ Brief information about service _logging_
 1. JDK
 2. Mule etc
 Mention steps to build and deploy project
+OS X & Linux:
 
-If seperate documentation is available there mention the path of the document as below:
+```sh
+npm install my-crazy-module --save
+```
+Windows:
+```sh
+edit autoexec.bat
+```
 Installation guide is available on sharepoint at below location [CustomerManagement Installation Guid](https://example.com)
 
 ## Usage
-After the project is installed the test the project using SOAP UI. More details about project in action.
+After the project is installed the test the project using SOAP UI. More details about project in action. For ex: screenshot etc.
+
+## Release History
+* 1.0
+    * Base: Initial version of the service
+* 2.0
+    * CHANGE: Remove `setDefaultXYZ()`
+    * ADD: Add `init()`
 
 ## Credits
 @Mark 

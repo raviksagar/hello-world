@@ -7,7 +7,7 @@ This project has following services exposed:
 2. updateCustomer: This service **updates** existing customer in the system
 3. deleteCustomer: This service **deletes** customer from the system
 ## Table of Contents
-_test
+_test_
 ## Installation
 ## Usage
 ## Credits

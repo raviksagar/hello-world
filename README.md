@@ -7,16 +7,23 @@ This project has following services exposed:
 2. updateCustomer: This service **updates** existing customer in the system
 3. deleteCustomer: This service **deletes** customer from the system
 ## Table of Contents
-###Service Design
+### Service Design
 Brief information about service _design_
-###Exception Handling
+### Exception Handling
 Brief information about service _exception handling_
-###Logging
+### Logging
 Brief information about service _logging_
 ## Installation
-[Installation guide is available on sharepoint at below location](https://example.com)
+### Pre-requisite:
+1. JDK
+2. Mule etc
+Mention steps to build and deploy project
+
+If seperate documentation is available there mention the path of the document as below:
+Installation guide is available on sharepoint at below location [CustomerManagement Installation Guid](https://example.com)
 
 ## Usage
+After the project is installed the test the project using SOAP UI. More details about project in action.
 
 ## Credits
 @Mark 

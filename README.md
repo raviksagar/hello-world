@@ -1,4 +1,4 @@
-# CustomerManagement
+# CustomerManagementProject
 Project to manage customer information
 ---
 ## Description
@@ -20,4 +20,4 @@ After the project is installed the test the project using SOAP UI. More details 
 * 1.0
     * Base: Initial version of the service
 ## Credits
-@Mark 
+@John @ Mark

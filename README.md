@@ -17,7 +17,9 @@ Brief information about service _logging_
 ### Pre-requisite:
 1. JDK
 2. Mule etc
+
 Mention steps to build and deploy project
+
 OS X & Linux:
 
 ```sh

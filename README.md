@@ -17,13 +17,11 @@ Brief information about service _logging_
 ### Pre-requisite:
 1. JDK
 2. Mule etc
-
-Mention steps to build and deploy project
-
+### Installation steps
 OS X & Linux:
 
 ```sh
-npm install my-crazy-module --save
+npm install customer-management --save
 ```
 Windows:
 ```sh
@@ -33,6 +31,9 @@ Installation guide is available on sharepoint at below location [CustomerManagem
 
 ## Usage
 After the project is installed the test the project using SOAP UI. More details about project in action. For ex: screenshot etc.
+[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
+
+_For more examples and usage, please refer to the [Wiki][wiki]
 
 ## Release History
 * 1.0
